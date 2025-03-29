@@ -1,4 +1,4 @@
-# Redes de Computadores
+# Computer Networks
 
 ---
 
