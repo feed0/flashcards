@@ -7,7 +7,7 @@ MD flashcards
 > Há quantos slides neste arquivo de aula?
 
 ### 1.2
-> Para cada um dos slides neste arquivo de aula, crie quantas perguntas achar necessario com 4 alternativas sendo apenas 1 a única correta sobre o assunto do pdf compiladores 01 para alunos de ciência da computação no formato a seguir num arquivo markdown:
+> Para cada um dos slides neste arquivo de aula, crie quantas perguntas achar necessario com 4 alternativas sendo apenas 1 a única correta sobre o assunto do arquivo de aula para alunos de ciência da computação no formato a seguir num arquivo markdown:
 
 # [nome da disciplina em ingles]
 
