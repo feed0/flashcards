@@ -864,10 +864,10 @@
 
 **Que:** O que um hospedeiro pode fazer quando recebe segmentos fora de ordem em uma conexão TCP?
 
-- [ ] Descartar os segmentos imediatamente.
-- [ ] Conservar os bytes fora de ordem e esperar pelos bytes faltantes.
-- [x] Ambas as opções são possíveis, dependendo da implementação.
+- [x] Conservar os bytes fora de ordem e esperar pelos bytes faltantes, usando mecanismos como SACK para otimizar a retransmissão.
+- [ ] Descartar os segmentos imediatamente (incomum em implementações modernas).
 - [ ] Enviar uma mensagem de erro.
+- [ ] Negociar uma nova conexão TCP.
 
 **Ans:** Ambas as opções são possíveis, dependendo da implementação.
 
